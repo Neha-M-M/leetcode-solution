@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Neha-M-M/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Neha-M-M/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Neha-M-M/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Neha-M-M/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Neha-M-M/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Neha-M-M/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -47,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Neha-M-M/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Neha-M-M/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Neha-M-M/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Neha-M-M/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
