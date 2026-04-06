@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Neha-M-M/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Neha-M-M/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Neha-M-M/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Neha-M-M/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/Neha-M-M/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Neha-M-M/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Neha-M-M/leetcode-solution/tree/master/0912-sort-an-array) |
