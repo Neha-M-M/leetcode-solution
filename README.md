@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Neha-M-M/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Neha-M-M/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Neha-M-M/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Neha-M-M/leetcode-solution/tree/master/1143-longest-common-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Neha-M-M/leetcode-solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
