@@ -92,8 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Neha-M-M/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Neha-M-M/leetcode-solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Neha-M-M/leetcode-solution/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/Neha-M-M/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Neha-M-M/leetcode-solution/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Neha-M-M/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
