@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Neha-M-M/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Neha-M-M/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neha-M-M/leetcode-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Neha-M-M/leetcode-solution/tree/master/0051-n-queens) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Neha-M-M/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/Neha-M-M/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -114,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Neha-M-M/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Neha-M-M/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neha-M-M/leetcode-solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Neha-M-M/leetcode-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Neha-M-M/leetcode-solution/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Neha-M-M/leetcode-solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
