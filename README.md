@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Neha-M-M/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neha-M-M/leetcode-solution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Neha-M-M/leetcode-solution/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Neha-M-M/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Neha-M-M/leetcode-solution/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Neha-M-M/leetcode-solution/tree/master/0198-house-robber) |
@@ -115,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Neha-M-M/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neha-M-M/leetcode-solution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Neha-M-M/leetcode-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Neha-M-M/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
